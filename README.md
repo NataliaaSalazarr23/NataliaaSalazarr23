@@ -7,7 +7,7 @@ Estudiante de <strong>Ingeniería en Electrónica y Control de Sistemas de Aeron
 
 ---
 
-### ✨ Un poco sobre mí
+✨ Un poco sobre mí
 
 - 🔧 Me encanta explorar cómo se conectan el hardware y el software para construir soluciones reales.
 - 🧠 Soy una persona positiva, trabajadora y disciplinada, con gusto por el orden y lo estéticamente funcional.
@@ -71,6 +71,4 @@ Desde operaciones básicas hasta manejo de memoria dinámica y estructuras compl
 <h4 align="center">"El esfuerzo constante y la pasión por aprender son mis motores para avanzar 🚀"</h4>
 
 ```
-
-> 👉 Natalia: Puedes reemplazar los enlaces `[#]` con las URLs reales de tus repos. También actualiza el link de LinkedIn con el correcto. Si quieres que subamos esto a tu repo directamente, te puedo guiar paso a paso 🙌
 
