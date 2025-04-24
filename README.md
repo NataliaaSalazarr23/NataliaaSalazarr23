@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Natalia+Salazar+%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+y+apasionada+por+la+tecnolog%C3%ADa+%F0%9F%92%BB" alt="Título animado Natalia Salazar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=36&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Natalia+Salazar+%F0%9F%9A%80;¡Bienvenid%40+a+mi+perfil+de+GitHub!+%F0%9F%91%8B" alt="Typing SVG personalizado de Natalia" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-  <strong style="font-size: 20px;">¡Estudiante de Ingeniería en Electrónica y Control de Sistemas de Aeronaves!</strong><br>
+  <strong style="font-size: 20px;">Estudiante de Ingeniería en Electrónica y Control de Sistemas de Aeronaves</strong><br>
   Apasionada por la programación 💻, el aprendizaje continuo 📚 y el trabajo en equipo 🤝.
 </p>
+
 ---
 
 ### ✨ Un poco sobre mí
