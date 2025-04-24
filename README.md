@@ -10,7 +10,7 @@
 
 
 ### ✨ Un poco sobre mí
-
+- 📚 Actualmente estudio en la Universidad Aeronáutica en Querétaro (UNAQ), México
 - 🛠️ Me encanta explorar cómo se conectan el hardware y el software para construir soluciones reales.
 - 💡 Soy una persona positiva, trabajadora y disciplinada, con gusto por el orden y lo estéticamente funcional.
 - 🎯 Busco aplicar mis conocimientos en entornos profesionales y colaborar en proyectos tecnológicos con propósito.
