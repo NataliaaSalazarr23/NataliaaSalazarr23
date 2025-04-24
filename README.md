@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong style="font-size: 20px;">Estudiante de Ingeniería en Electrónica y Control de Sistemas de Aeronaves</strong><br>
-  Apasionada por la programación 💻, el aprendizaje continuo 📚 y el trabajo en equipo 🤝.
+  Apasionada por la programación 💻, la electrónica ⚡, el aprendizaje continuo 📚 y el trabajo en equipo 🤝.
 </p>
 
 
@@ -71,4 +71,4 @@
 
 ---
 
-<h4 align="center">"El esfuerzo constante y la pasión por aprender son mis motores para avanzar 🚀"</h4>
+<h4 align="center">"El esfuerzo constante y la pasión por aprender son mis motores para avanzar"</h4>
