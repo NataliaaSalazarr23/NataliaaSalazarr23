@@ -8,7 +8,6 @@
   Apasionada por la programación 💻, el aprendizaje continuo 📚 y el trabajo en equipo 🤝.
 </p>
 
----
 
 ### ✨ Un poco sobre mí
 
