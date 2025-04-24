@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Natalia Salazardo 🚀</h1>
+<h1 align="center">¡Hola! Soy Natalia Salazar 🚀</h1>
 
 <p align="center">
 Estudiante de <strong>Ingeniería en Electrónica y Control de Sistemas de Aeronaves</strong>, apasionada por la programación 💻, el aprendizaje continuo 📚 y el trabajo en equipo 🤝.
@@ -54,7 +54,8 @@ Estudiante de <strong>Ingeniería en Electrónica y Control de Sistemas de Aeron
 
 ### 📬 Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuarioaqui)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/natalia-marian-salazar-domínguez-3a281631b)
+
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nataliasalazardo@gmail.com)
 
 ---
