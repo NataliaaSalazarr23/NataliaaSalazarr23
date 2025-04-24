@@ -1,7 +1,10 @@
-<h1 align="center">¡Hola! Soy Natalia Salazar 🚀</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+Natalia+Salazar+%F0%9F%9A%80;Bienvenida+a+mi+perfil+de+GitHub!" alt="Typing SVG" />
+</p>
 
 <p align="center">
-Estudiante de <strong>Ingeniería en Electrónica y Control de Sistemas de Aeronaves</strong>, apasionada por la programación 💻, el aprendizaje continuo 📚 y el trabajo en equipo 🤝.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />  
+  <strong>Estudiante de Ingeniería en Electrónica y Control de Sistemas de Aeronaves</strong>, apasionada por la programación 💻, el aprendizaje continuo 📚 y el trabajo en equipo 🤝.
 </p>
 
 ---
