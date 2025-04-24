@@ -1,5 +1,5 @@
 ```markdown
-<h1 align="center">¡Hola! Soy Natalia Salazardo 🚀</h1>
+¡Hola! Soy Natalia Salazar 🚀
 
 <p align="center">
 Estudiante de <strong>Ingeniería en Electrónica y Control de Sistemas de Aeronaves</strong>, apasionada por la programación 💻, el aprendizaje continuo 📚 y el trabajo en equipo 🤝.
