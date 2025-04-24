@@ -1,5 +1,4 @@
-```markdown
-¡Hola! Soy Natalia Salazar 🚀
+<h1 align="center">¡Hola! Soy Natalia Salazardo 🚀</h1>
 
 <p align="center">
 Estudiante de <strong>Ingeniería en Electrónica y Control de Sistemas de Aeronaves</strong>, apasionada por la programación 💻, el aprendizaje continuo 📚 y el trabajo en equipo 🤝.
@@ -7,24 +6,24 @@ Estudiante de <strong>Ingeniería en Electrónica y Control de Sistemas de Aeron
 
 ---
 
-✨ Un poco sobre mí
+### ✨ Un poco sobre mí
 
-- 🔧 Me encanta explorar cómo se conectan el hardware y el software para construir soluciones reales.
-- 🧠 Soy una persona positiva, trabajadora y disciplinada, con gusto por el orden y lo estéticamente funcional.
+- 🛠️ Me encanta explorar cómo se conectan el hardware y el software para construir soluciones reales.
+- 💡 Soy una persona positiva, trabajadora y disciplinada, con gusto por el orden y lo estéticamente funcional.
 - 🎯 Busco aplicar mis conocimientos en entornos profesionales y colaborar en proyectos tecnológicos con propósito.
 
 ---
 
 ### 🚀 Proyectos destacados
 
-🔹 **🧠 Métodos numéricos en Python**  
-Códigos que desarrollé aplicando algoritmos como Euler, Heun, Ralston y Runge-Kutta para resolver ecuaciones diferenciales. [Ver repositorio](#)
+- 🧠 **Métodos numéricos en Python**  
+  Códigos que desarrollé aplicando algoritmos como Euler, Heun, Ralston y Runge-Kutta para resolver ecuaciones diferenciales. [Ver repositorio](#)
 
-🔹 **💡 Sistema PSU en VHDL (FPGA)**  
-Diseño de una unidad de servicio para pasajeros en VHDL, implementado en la FPGA DE0 Cyclone III. [Ver repositorio](#)
+- 💡 **Sistema PSU en VHDL (FPGA)**  
+  Diseño de una unidad de servicio para pasajeros en VHDL, implementado en la FPGA DE0 Cyclone III. [Ver repositorio](#)
 
-🔹 **🧮 Ejercicios de C y C++**  
-Desde operaciones básicas hasta manejo de memoria dinámica y estructuras complejas. [Ver repositorio](#)
+- ⚙️ **Ejercicios de C y C++**  
+  Desde operaciones básicas hasta manejo de memoria dinámica y estructuras complejas. [Ver repositorio](#)
 
 ---
 
@@ -47,8 +46,8 @@ Desde operaciones básicas hasta manejo de memoria dinámica y estructuras compl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nataliasalazardo&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nataliasalazardo&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NataliaSalazardo23&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NataliaSalazardo23&theme=tokyonight" />
 </p>
 
 ---
@@ -69,6 +68,3 @@ Desde operaciones básicas hasta manejo de memoria dinámica y estructuras compl
 ---
 
 <h4 align="center">"El esfuerzo constante y la pasión por aprender son mis motores para avanzar 🚀"</h4>
-
-```
-
